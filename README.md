@@ -12,5 +12,3 @@
         npm run dev
 
 Your canvas piece should open up automatically at http://localhost:3000 
-
-
